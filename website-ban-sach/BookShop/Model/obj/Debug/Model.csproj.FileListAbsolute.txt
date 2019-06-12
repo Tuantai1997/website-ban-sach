@@ -1,0 +1,71 @@
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\bin\Debug\Model.dll.config
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\bin\Debug\Model.dll
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\bin\Debug\Model.pdb
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\bin\Debug\EntityFramework.dll
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\bin\Debug\EntityFramework.xml
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\obj\Debug\Model.dll
+c:\Users\ngato\OneDrive\documents\visual studio 2013\Projects\BookShop\Model\obj\Debug\Model.pdb
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\Model\bin\Debug\PagedList.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\Model\bin\Debug\PagedList.xml
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\Model\bin\Debug\CKFinder.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\Model.dll.config
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\Model.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\Model.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\PagedList.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\PagedList.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\obj\Debug\Model.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\Model\obj\Debug\Model.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Model.dll.config
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Model.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Model.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Common.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\StaticResources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Common.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\StaticResources.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\en\StaticResources.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Model.dll.config
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Model.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Model.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Common.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\StaticResources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\Common.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\StaticResources.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\bin\Debug\en\StaticResources.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Model\obj\Debug\Model.pdb

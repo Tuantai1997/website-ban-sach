@@ -1,0 +1,120 @@
+﻿@model List<BookShop.Models.CartItem>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="cart-detail">
+
+    <div class="cart-table">
+
+        @if (Model.Count > 0)
+        {
+            <table style="width:850px;" class="data-table">
+                <tr>
+                    <td class="header-table">Mã SP</td>
+                    <td class="header-table">Hình ảnh</td>
+                    <td class="header-table">Tên sách</td>
+                    <td class="header-table">Giá</td>
+                    <td class="header-table">Giảm giá</td>
+                    <td class="header-table">Số lượng</td>
+                    <td class="header-table">Thành tiền</td>
+                    <td class="header-table">VAT</td>
+                    @*<td class="header-table">Gỡ bỏ</td>*@
+                </tr>
+                @foreach (var item in Model)
+                {
+            <tr>
+                <td class="content-table">@item.Book.ID</td>
+                <td class="content-table"><a href="#"><img style="height:150px;" src="@item.Book.Images" alt="" /></a></td>
+                <td class="content-table">@item.Book.Name</td>
+                <td class="content-table"><span class="price" style="color:black">@item.Book.Price.GetValueOrDefault(0)</span></td>
+                <td class="content-table"><span class="price" style="color:black">@item.Book.PromotionPrice.GetValueOrDefault(0)</span></td>
+                <td style="text-align: center;"><input type="number" min="1" max="@item.Quantity" style="padding:5px;width:50px;" name="soluong" class="txtquantity" data-id="@item.Book.ID" value="@item.Quantity" /></td>
+                <td class="content-table"><span class="price" style="color:black">@((item.Book.Price.GetValueOrDefault(0) - item.Book.PromotionPrice.GetValueOrDefault(0)) * item.Quantity)</span></td>
+                <td class="content-table"><span class="price" style="color:black">@(item.Book.Price.GetValueOrDefault(0)/10)</span></td>
+                <td> <a href="#" data-id="@item.Book.ID" class="btnDelete" style=" font-size: large">Xóa</a></td>
+            </tr>
+                }
+
+
+                <tr>
+                    <td class="content-table"><a href="~/Home/Index"><input type="button" value="CHỌN THÊM" /></a></td>
+                    <td class="content-table"><a href="" id="deleteall"><input type="button" value="XÓA HẾT" /></a></td>
+                    <td class="content-table"><a href="" id="updateitem"><input type="button" value="CẬP NHẬT" /></a></td>
+
+                </tr>
+            </table>
+        }
+
+
+        else
+        {
+            <table style="width:850px;" class="data-table">
+                <h2>Chưa có sản phẩm nào trong giỏ hàng</h2>
+                <tr>
+                    <td class="content-table"><a href="~/Home/Index"><input type="button" value="CHỌN SÁCH" /></a></td>
+                </tr>
+            </table>
+        }
+
+
+    </div>
+
+
+    @if (Model.Count > 0)
+            {
+                int tongTienChuaVAT = 0;
+                int thanhtien = 0;
+                int tien_VAT = 0;
+                int tongTienVAT = 0;
+                foreach (var item_temp in Model)
+                {
+                    if (item_temp.Book.PromotionPrice != null)
+                    {
+                        thanhtien = ((int)(item_temp.Book.Price - item_temp.Book.PromotionPrice)) * item_temp.Quantity;
+
+                    }
+                    else if (item_temp.Book.Price != null && item_temp.Book.PromotionPrice == null)
+                    {
+                        thanhtien = ((int)(item_temp.Book.Price)) * item_temp.Quantity;
+                        //tien_VAT = ((int)(item_temp.Book.Price) / 10);
+                    }
+                    else
+                    {
+                        thanhtien = 0;
+                    }
+
+                    tongTienChuaVAT += thanhtien;
+                    tien_VAT +=((int)(item_temp.Book.Price) / 10);
+                    ;
+                    tongTienVAT = tongTienChuaVAT + tien_VAT ;
+                }
+
+        <div style="width:850px;" class="end">
+            <div class="end-right">
+                <div class="end-1">
+
+                    <div class="thanh-tien">
+                        Tổng tiền :
+                        <input style="font-size:16px" type="text" value="@tongTienChuaVAT" />VNĐ
+                    </div>
+                    <div class="thanh-tien">
+                        Tổng tiền thanh toán (Đã gồm VAT):
+                        <input style="font-size:16px" type="text" value="@tongTienVAT" /> VNĐ
+                    </div>
+
+                    <div class="right">
+                        <td class="content-table"><a href="@Url.Action("Payment","Cart")" id="thanhtoan"><input type="button" value="THANH TOÁN" /></a></td>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+
+
+</div>
+
+
+

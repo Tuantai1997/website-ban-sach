@@ -1,0 +1,420 @@
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\BookShop.dll.config
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\BookShop.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\BookShop.pdb
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Antlr3.Runtime.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\EntityFramework.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Model.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Newtonsoft.Json.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Owin.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Helpers.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Mvc.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Optimization.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Razor.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.WebPages.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\WebGrease.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Model.pdb
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Helpers.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Mvc.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Optimization.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.Razor.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.WebPages.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Newtonsoft.Json.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\EntityFramework.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\obj\Debug\BookShop.dll
+c:\users\ngato\onedrive\documents\visual studio 2013\Projects\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\PagedList.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\PagedList.Mvc.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\PagedList.xml
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\PagedList.Mvc.xml
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder.pdb
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder_FileEditor.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder_ImageResize.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder_Watermark.dll
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder_FileEditor.pdb
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder_ImageResize.pdb
+C:\Users\ngato\OneDrive\Documents\Visual Studio 2013\Projects\BookShop\BookShop\bin\CKFinder_Watermark.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\BookShop.dll.config
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\BookShop.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\BookShop.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Antlr3.Runtime.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder_FileEditor.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder_ImageResize.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder_Watermark.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\EntityFramework.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Model.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Newtonsoft.Json.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Owin.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\PagedList.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\PagedList.Mvc.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Helpers.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Mvc.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Optimization.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Razor.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\WebGrease.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Model.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder_FileEditor.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder_ImageResize.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\CKFinder_Watermark.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\PagedList.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\PagedList.Mvc.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Helpers.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Mvc.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Optimization.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.Razor.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Newtonsoft.Json.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\EntityFramework.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.dll
+E:\Project test\BTL_CNWeb_Nga\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\csc.exe
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\vbc.exe
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BookShop.dll.config
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BookShop.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BookShop.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Antlr3.Runtime.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BotDetect.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BotDetect.Web.UI.Mvc.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Common.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Facebook.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Model.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Newtonsoft.Json.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Owin.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.Mvc.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\StaticResources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Net.Http.Formatting.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Helpers.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Mvc.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Optimization.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Razor.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\WebGrease.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Services.Client.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Edm.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.OData.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Spatial.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Common.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Model.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Model.dll.config
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\StaticResources.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Facebook.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Newtonsoft.Json.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.Mvc.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Net.Http.Formatting.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Helpers.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Mvc.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Optimization.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Razor.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Services.Client.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Edm.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.OData.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Spatial.xml
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\en\StaticResources.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\System.Spatial.resources.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.dll
+F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\csc.exe
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\vbc.exe
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BookShop.dll.config
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BookShop.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BookShop.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Antlr3.Runtime.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BotDetect.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\BotDetect.Web.UI.Mvc.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Common.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Facebook.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Model.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Newtonsoft.Json.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Owin.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.Mvc.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\StaticResources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.IdentityModel.Tokens.Jwt.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Net.Http.Formatting.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Helpers.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Mvc.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Optimization.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Razor.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\WebGrease.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Services.Client.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Edm.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.OData.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Spatial.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Common.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Model.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Model.dll.config
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\StaticResources.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Facebook.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Newtonsoft.Json.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\PagedList.Mvc.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.IdentityModel.Tokens.Jwt.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Net.Http.Formatting.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Helpers.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Mvc.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Optimization.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.Razor.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Services.Client.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.Edm.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\Microsoft.Data.OData.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\System.Spatial.xml
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\en\StaticResources.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\de\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\es\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\fr\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\it\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ja\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ko\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\ru\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hans\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\zh-Hant\System.Spatial.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\obj\Debug\BookShop.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\CKFinder.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\BookShop\bin\CKFinder.pdb

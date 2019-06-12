@@ -1,0 +1,118 @@
+﻿@model Model.EF.About
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    Thêm mới quảng cáo
+}
+@section jsFooter{
+    <script src="~/Assets/Admin/js/plugins/ckfinder/ckfinder.js"></script>
+    <script src="~/Assets/Admin/js/plugins/ckfinder/plugins/dummy/plugin.js"></script>
+    <script src="~/Assets/Admin/js/plugins/ckfinder/plugins/imageresize/plugin.js"></script>
+    <script src="~/Assets/Admin/js/plugins/ckfinder/plugins/fileeditor/plugin.js"></script>
+    <script type="text/javascript">
+        function Click_BrowseServer() {
+            var finder = new CKFinder();
+            //finder.basePath = '../';
+            finder.selectActionFunction = SetFileField;
+            finder.popup();
+        }
+        function SetFileField(fileUrl) {
+            $('#inpImage').val(fileUrl);
+        }
+        $('#btnUpload').click(function () {
+            Click_BrowseServer();
+        });
+    </script>
+
+}
+
+@using (Html.BeginForm("Create", "About", FormMethod.Post))
+{
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Name)
+                    @Html.ValidationMessageFor(model => model.Name)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.MetaTitle, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(model => model.MetaTitle)
+                    @Html.ValidationMessageFor(model => model.MetaTitle)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Discriptions, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Discriptions)
+                    @Html.ValidationMessageFor(model => model.Discriptions)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Images, new { @class = "control-label col-md-2" })
+                <div class="col-ms-10">
+                    <a href="#" id="btnUpload" class="btn btn-primary">Load</a>
+                    <input id="inpImage" type="text" name="Images" />
+                    <span>@Html.ValidationMessageFor(model => model.Images, "", new { @class = "error" })</span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Detail, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Detail)
+                    @Html.ValidationMessageFor(model => model.Detail)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CreateBy, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CreateBy)
+                    @Html.ValidationMessageFor(model => model.CreateBy)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ModifiedBy, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.ModifiedBy)
+                    @Html.ValidationMessageFor(model => model.ModifiedBy)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.MetaKeyword, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.MetaKeyword)
+                    @Html.ValidationMessageFor(model => model.MetaKeyword)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.MetaDiscriptions, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.MetaDiscriptions)
+                    @Html.ValidationMessageFor(model => model.MetaDiscriptions)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Tạo mới" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>

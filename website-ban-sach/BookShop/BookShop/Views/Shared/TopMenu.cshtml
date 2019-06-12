@@ -1,0 +1,17 @@
+﻿@model List<Model.EF.Manu>
+<div class="call">
+    <p><span>Need help!!!</span> call us <span class="number"><strong>0362.234.357</strong></span></p>
+</div>
+<div class="account_desc">
+   
+    <p class="right">
+        @foreach (var item in Model)
+        {
+            <a href="@item.Link" target="@item.Target">@item.Text</a>
+            <a>|</a>
+        }
+    </p>
+</div>
+<div class="clear"></div>
+
+
