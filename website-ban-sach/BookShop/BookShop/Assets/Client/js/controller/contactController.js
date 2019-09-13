@@ -5,7 +5,7 @@
     },
     registerEvents: function () {
        
-        $('#btnSend')/*.off('click')*/.on('click', function () {           
+        $('#btnSend').off('click').on('click', function () {           
             //var data = {
             var name= $('#txtName').val();
             var mobile= $('#txtMobile').val();

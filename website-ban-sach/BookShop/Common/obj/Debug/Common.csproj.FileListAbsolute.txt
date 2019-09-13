@@ -12,7 +12,13 @@ F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug
 F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.pdb
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\bin\Debug\Common.dll
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\bin\Debug\Common.pdb
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.csprojAssemblyReference.cache
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.dll
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.pdb
-G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\bin\Debug\Common.dll
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\bin\Debug\Common.pdb
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.dll
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\Common\obj\Debug\Common.pdb

@@ -12,6 +12,7 @@ F:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\bin\Debug\StaticResources.dll
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\bin\Debug\StaticResources.pdb
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\bin\Debug\en\StaticResources.resources.dll
+G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.Resources.resources
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.Resources.en.resources
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
@@ -19,4 +20,14 @@ G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\en\StaticResources.resources.dll
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.dll
 G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.pdb
-G:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\bin\Debug\StaticResources.dll
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\bin\Debug\StaticResources.pdb
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\bin\Debug\en\StaticResources.resources.dll
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.Resources.resources
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\en\StaticResources.resources.dll
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.dll
+E:\Công Nghệ .NET\website-ban-sach\website-ban-sach\BookShop\StaticResources\obj\Debug\StaticResources.pdb

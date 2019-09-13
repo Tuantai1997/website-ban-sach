@@ -72,14 +72,14 @@ namespace BookShop.Controllers
                 // Get the user's information, like email, first name, middle name etc
                 dynamic me = fb.Get("me?fields=first_name,middle_name,last_name,id,email");
                 string email = me.email;
-                string userName = me.email;
+                string userName = me.middle_name + me.last_name;
                 string firstname = me.first_name;
                 string middlename = me.middle_name;
                 string lastname = me.last_name;
 
                 var user = new Customer();
                 user.Email = email;
-                user.UserName = email;
+                user.UserName = userName;
                 user.status = true;
                 user.Name = firstname + " " + middlename + " " + lastname;
                 user.CreateDate = DateTime.Now;
@@ -89,6 +89,7 @@ namespace BookShop.Controllers
                     var userSession = new UserLogin();
                     userSession.UserName = user.UserName;
                     userSession.UserID = user.ID;
+                    userSession.Name = user.Name;
                     Session.Add(CommonConstants.USER_SESSION, userSession);
                 }
             }
@@ -116,6 +117,7 @@ namespace BookShop.Controllers
                     userSession.UserName = user.UserName;
                     userSession.UserID = user.ID;
                     userSession.Status = user.status;
+                    userSession.Name = user.Name;
                     Session[CartController.CartSession] = null;
                     Session.Add(CommonConstants.USER_SESSION, userSession);
 

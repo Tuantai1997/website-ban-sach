@@ -15,6 +15,27 @@ namespace Model.Dao
     {
         db = new BookShopOnlDbContext();
     }
+        public About GetByID(long id)
+    {
+        return db.Abouts.Find(id);
+    }
+        public List<Tag> ListTag(long contentId)
+        {
+            var model = (from a in db.Tags
+                         join b in db.AboutTags
+                         on a.ID equals b.TagID
+                         where b.AboutID == contentId
+                         select new
+                         {
+                             ID = b.TagID,
+                             Name = a.Name
+                         }).AsEnumerable().Select(x => new Tag()
+                         {
+                             ID = x.ID,
+                             Name = x.Name
+                         });
+            return model.ToList();
+        }
         public long Insert(About entity)
         {
             db.Abouts.Add(entity);
@@ -54,6 +75,38 @@ namespace Model.Dao
         //{
         //    return db.Users.SingleOrDefault(x => x.UserName==UserName);
         //}
+        public Tag GetTag(string id)
+        {
+            return db.Tags.Find(id);
+        }
+        public IEnumerable<About> ListAllByTag(string tag, int page, int pageSize)
+        {
+            var model = (from a in db.Abouts
+                         join b in db.AboutTags
+                         on a.ID equals b.AboutID
+                         where b.TagID == tag
+                         select new
+                         {
+                             Name = a.Name,
+                             MetaTitle = a.MetaTitle,
+                             Image = a.Images,
+                             Description = a.Discriptions,
+                             CreatedDate = a.CreateDate,
+                             CreatedBy = a.CreateBy,
+                             ID = a.ID
+
+                         }).AsEnumerable().Select(x => new About()
+                         {
+                             Name = x.Name,
+                             MetaTitle = x.MetaTitle,
+                             Images = x.Image,
+                             Discriptions = x.Description,
+                             CreateDate = x.CreatedDate,
+                             CreateBy = x.CreatedBy,
+                             ID = x.ID
+                         });
+            return model.OrderByDescending(x => x.CreateDate).ToPagedList(page, pageSize);
+        }
         public About ViewDetail(long id)
         {
             return db.Abouts.Find(id);

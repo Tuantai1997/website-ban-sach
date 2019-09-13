@@ -28,7 +28,6 @@ namespace Model.Dao
                     db.Users.Add(entity);
                     db.SaveChanges();
                     return entity.ID;
-                    //int id = customer.CustomerID;
                 }
             }catch(DbEntityValidationException ex)
             {

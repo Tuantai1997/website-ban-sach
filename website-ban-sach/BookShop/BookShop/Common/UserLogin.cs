@@ -13,6 +13,7 @@ namespace BookShop
         
         public long UserID { set; get; }
         public string UserName { set; get; }
+        public string Name { set; get; }
         //public string GroupID { set; get; }
         public bool Status { set; get; }
     }

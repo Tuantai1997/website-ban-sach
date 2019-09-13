@@ -2237,13 +2237,15 @@
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\User\Register.cshtml" />
     <Content Include="Views\User\UserProfile.cshtml" />
-    <Content Include="Views\About\Index.cshtml" />
     <Content Include="Views\Contact\Index.cshtml" />
     <Content Include="Views\Content\Detail.cshtml" />
     <Content Include="Views\Content\Index.cshtml" />
     <Content Include="Views\Content\Tag.cshtml" />
     <Content Include="Views\Cart\Fail.cshtml" />
     <Content Include="Views\Book\Search.cshtml" />
+    <Content Include="Views\About\Detail.cshtml" />
+    <Content Include="Views\About\Index.cshtml" />
+    <Content Include="Views\About\Tag.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

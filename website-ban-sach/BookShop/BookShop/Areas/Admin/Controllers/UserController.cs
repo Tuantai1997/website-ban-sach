@@ -31,7 +31,6 @@ namespace BookShop.Areas.Admin.Controllers
             return View(user);
         }
         [HttpPost]
-
         public ActionResult Create(User user)
         {
             if (ModelState.IsValid)

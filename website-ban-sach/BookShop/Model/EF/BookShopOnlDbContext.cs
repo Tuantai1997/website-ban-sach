@@ -14,6 +14,7 @@ namespace Model.EF
         }
 
         public virtual DbSet<About> Abouts { get; set; }
+        public virtual DbSet<AboutTag> AboutTags { get; set; }
         public virtual DbSet<Author> Authors { get; set; }
         public virtual DbSet<Book> Books { get; set; }
         public virtual DbSet<BookCategory> BookCategories { get; set; }

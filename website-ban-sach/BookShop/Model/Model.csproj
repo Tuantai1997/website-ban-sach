@@ -83,6 +83,7 @@
     <Compile Include="EF\BookCategory.cs" />
     <Compile Include="EF\BookShopOnlDbContext.cs" />
     <Compile Include="EF\Content.cs" />
+    <Compile Include="EF\AboutTag.cs" />
     <Compile Include="EF\ContentTag.cs" />
     <Compile Include="EF\Customer.cs" />
     <Compile Include="EF\FeedBack.cs" />
